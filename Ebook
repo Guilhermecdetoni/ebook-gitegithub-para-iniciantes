@@ -1,8 +1,0 @@
-git-ebook/
-cd ├─ README.md
-├─ ebook/
-│  └─ git-e-github-para-iniciantes.pdf
-├─ prompts/
-│  └─ prompts.md
-└─ assets/
-   └─ imagens-capturas (se quiser adicionar prints)
